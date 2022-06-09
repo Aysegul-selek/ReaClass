@@ -10,7 +10,7 @@ namespace ReaClass.Test
             person.Greet();
 
             var student = new Student();
-            student.SetAge(27);
+            student.SetAge(26);
             student.Greet();
             student.ShowAge();
             student.Study();
